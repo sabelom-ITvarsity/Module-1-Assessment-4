@@ -1,0 +1,15 @@
+h3{
+    font-family:Tahoma;
+}
+th{
+    font-weight: 800;
+    background-color: aqua;
+}
+table{
+    border-style: solid;
+    border-color: aqua;
+    width: 100%;
+}
+h1{
+    font-family:cursive
+}
